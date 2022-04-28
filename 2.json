@@ -1,0 +1,15 @@
+{
+    "description": "Example-2",
+    "image": "https://swojtasiak.github.io/examples.github.io/pics/2.png",
+    "name": "E-2",
+    "attributes": [
+        {
+            "trait_type": "Parity",
+            "value": "even"
+        },
+        {
+            "trait_type": "Primality",
+            "value": "Prime"
+        }
+    ]
+}

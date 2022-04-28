@@ -1,0 +1,15 @@
+{
+    "description": "Example-8",
+    "image": "https://swojtasiak.github.io/examples.github.io/pics/8.png",
+    "name": "E-8",
+    "attributes": [
+        {
+            "trait_type": "Parity",
+            "value": "even"
+        },
+        {
+            "trait_type": "Primality",
+            "value": "Composite"
+        }
+    ]
+}
